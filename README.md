@@ -9,5 +9,5 @@ Generate SSL in localhost
 
 # Run ./generate.sh
 # Enter password
-# Waith (pres enter anywhere)
+# Wait (press enter anywhere)
 # Enter password 
